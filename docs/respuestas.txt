@@ -1,1 +1,13 @@
+
 Trabajo en equipo con git
+
+¿Diferencia entre compilador e interprete?
+
+Los lenguajes compilados necesitan de un programa especial que lea el código fuente y cree un archivo objeto (generalmente un archivo obj) el cual es leído por la computadora. La computadora no leé el código fuente, sino lee el archivo obj.
+ 
+Los lenguajes interpretados necesitan de un programa que traduzca en directo el código fuente escrito a instrucciones de la plataforma en la que se ejecutan. Ejm: Python, Visual Basic Script.
+¿ cual es la principal diferencia entre el contenido del fichero helloworld.sh y helloworld.rb?
+El primero es un ejecutable de bash y el segundo es un fichero interpretado en ruby.
+
+¿que significado tiene la primera linea del fichero helloworld.sh?
+Indica la shell predeterminada.
