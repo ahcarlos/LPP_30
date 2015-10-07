@@ -1,1 +1,1 @@
-puts 'Hello world'
+puts "Hello world #{ARGV[0]}"
